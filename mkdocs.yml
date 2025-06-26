@@ -51,18 +51,18 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - Home: index.html
+  - Home: index.md
   - Books:
-      - The Bible: public/books/the_bible-analysis.md
-      - The Book of Metal: public/books/the_book-of-metal.md
-      - The Book of Air: public/books/the_book-of-air.md
-      - The Book of Earth: public/books/the_book-of-earth.md
-      - The Book of Water: public/books/the_book-of-water.md
+      - The Bible: books/the_bible-analysis.md
+      - The Book of Metal: books/the_book-of-metal.md
+      - The Book of Air: books/the_book-of-air.md
+      - The Book of Earth: books/the_book-of-earth.md
+      - The Book of Water: books/the_book-of-water.md
   - Foundational Accords:
-      - Core Principle: public/books/The_Foundational_Accords/Core Principle.md
-      - Statement of Purpose: public/books/The_Foundational_Accords/Statement of Purpose.md
-      - The Degrees and Dignities of the Order: public/books/The_Foundational_Accords/The Degrees and Dignities of the Order.md
-      - The Laws of Governance: public/books/The_Foundational_Accords/The Laws of Governance.md
-      - The Trials: public/books/The_Foundational_Accords/The Trials.md
-      - Trials of Ascension: public/books/The_Foundational_Accords/Trials of Ascension.md
-  - Statement of Purpose: public/books/Statement_of_Purpose/Statement of Purpose.md
+      - Core Principle: books/The_Foundational_Accords/Core Principle.md
+      - Statement of Purpose: books/The_Foundational_Accords/Statement of Purpose.md
+      - The Degrees and Dignities of the Order: books/The_Foundational_Accords/The Degrees and Dignities of the Order.md
+      - The Laws of Governance: books/The_Foundational_Accords/The Laws of Governance.md
+      - The Trials: books/The_Foundational_Accords/The Trials.md
+      - Trials of Ascension: books/The_Foundational_Accords/Trials of Ascension.md
+  - Statement of Purpose: books/Statement_of_Purpose/Statement of Purpose.md

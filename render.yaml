@@ -1,7 +1,7 @@
-# Render deployment configuration for full-stack app
+# Render deployment configuration for full-stack app and static docs
 
-# Web Service: Node.js backend
 services:
+  # Web Service: Node.js backend
   - type: web
     name: marzod-server
     env: node
@@ -13,11 +13,20 @@ services:
         value: production
     autoDeploy: true
 
-# Static Site: React frontend (Vite build)
+  # Static Site: React frontend (Vite build)
   - type: web
     name: marzod-frontend
     env: static
     plan: free
     buildCommand: npm install && npm run build
     staticPublishPath: dist
+    autoDeploy: true
+
+  # Static Site: MkDocs documentation
+  - type: static
+    name: marzod-docs
+    env: static
+    plan: free
+    buildCommand: pip install mkdocs-material && mkdocs build
+    staticPublishPath: site
     autoDeploy: true
