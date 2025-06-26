@@ -23,7 +23,7 @@ services:
     autoDeploy: true
 
   # Static Site: MkDocs documentation
-  - type: static
+  - type: web
     name: marzod-docs
     env: static
     plan: free
