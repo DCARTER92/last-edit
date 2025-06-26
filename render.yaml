@@ -5,7 +5,6 @@ services:
   - type: web
     name: marzod-server
     env: node
-    plan: free
     buildCommand: cd server && npm install
     startCommand: cd server && npm start
     envVars:
@@ -17,7 +16,6 @@ services:
   - type: web
     name: marzod-frontend
     env: static
-    plan: free
     buildCommand: npm install && npm run build
     staticPublishPath: dist
     autoDeploy: true
@@ -26,7 +24,6 @@ services:
   - type: web
     name: marzod-docs
     env: static
-    plan: free
     buildCommand: pip install mkdocs-material && mkdocs build
     staticPublishPath: site
     autoDeploy: true
