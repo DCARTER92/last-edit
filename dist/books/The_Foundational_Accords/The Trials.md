@@ -1,9 +1,3 @@
-# The Trials
-
-[[toc]]
-
----
-
 1. Novice
 
 

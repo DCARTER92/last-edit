@@ -1,9 +1,3 @@
-# The Degrees and Dignities of the Order
-
-[[toc]]
-
----
-
 1. The Marzodian Council
 
 

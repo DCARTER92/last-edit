@@ -1,0 +1,13 @@
+# Node.js
+/node_modules
+
+# Build output
+/dist
+
+# Local environment
+.env
+
+# VS Code
+*.code-workspace
+.DS_Store
+*.log

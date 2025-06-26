@@ -1,9 +1,3 @@
-# Trials of Ascension
-
-[[toc]]
-
----
-
 The Trials of Ascension are the means by which one may ascend in station. They may be administered by any Keeper, who, upon a student's request, is bound to honor it within seven days, or else seek another Keeper to act in their stead. The results of a Trial must be presented to the Council within seven days of completion. The full procedure of the Trials is set forth below.
 
 

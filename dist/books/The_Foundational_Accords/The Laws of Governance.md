@@ -1,9 +1,3 @@
-# The Laws of Governance
-
-[[toc]]
-
----
-
 The Prime Law is as thus: That no member of the Order shall, in any dealing, cause discomfort, nor inconvenience, nor any manner of pain unto others, save where such may not, with due care, be avoided.
 
 
